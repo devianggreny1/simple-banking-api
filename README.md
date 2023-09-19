@@ -29,6 +29,7 @@
 <ul>
   <li>Ramandhanu Yuchnan Utomo</li>
   <li>Vidira Anindita Ramya</li>
+  <li>Devi Anggreny</li>
 </ul>
 <p>Endpoint: http://localhost/simple-banking-api/api/transactions.php</p>
 <p>Method: GET</p>
